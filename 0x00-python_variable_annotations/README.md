@@ -15,10 +15,3 @@ bob@dylan:~$ ./0-main.py
 True
 {'a':  <class 'float'>, 'b': <class 'float'>, 'return': <class 'float'>}
 ```
-Repo:
-
-GitHub repository: alx-backend-python
-Directory: 0x00-python_variable_annotations
-File: 0-add.py
-
-
