@@ -3,7 +3,7 @@
 '''
     8-make_multiplier.py
 '''
-from typing import Union,
+from typing import Callable
 
 def make_multiplier(multiplier: float) -> Callable[[float], float]:
     '''Creates multiplier function
